@@ -18,5 +18,5 @@
     <string name="report_as_spam_to">Report as spam to %s</string>
 
     <!-- swipe to delete -->
-    <string name="swipe_deletes_conversation_text">Swipe deletes conversation</string>
+    <string name="swipe_right_deletes_conversation_text">Swipe right deletes conversation</string>
 </resources>
